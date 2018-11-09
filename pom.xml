@@ -1,0 +1,5 @@
+ <dependency>
+   <groupId>com.example.dep</groupId>
+   <artifactId>simple-maven-dep</artifactId>
+   <version>1.0</version>
+ </dependency>
